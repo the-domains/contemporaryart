@@ -1,26 +1,14 @@
 layout_spectrum: 0.2221035
-name: ContemporaryartNationalgallery
 typography_spectrum: 0.7902658
 color:
+  lightness: 0.5382636
   brandStrength: 0.5869235
   saturation: 0.8038459
+  rhythmicContrast: 0.4627167
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  lightness: 0.5382636
-  rhythmicContrast: 0.4627167
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
+name: ContemporaryartNationalgallery
