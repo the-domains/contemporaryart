@@ -1,14 +1,41 @@
+name: Contemporaryart
+favicon: null
 layout_spectrum: 0.2221035
 typography_spectrum: 0.7902658
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Contemporary Art
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.5382636
-  brandStrength: 0.5869235
-  saturation: 0.8038459
-  rhythmicContrast: 0.4627167
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-name: ContemporaryartNationalgallery
+  brandStrength: 0.5869235
+  lightness: 0.5382636
+  saturation: 0.8038459
+  rhythmicContrast: 0.4627167
+purpose: []
